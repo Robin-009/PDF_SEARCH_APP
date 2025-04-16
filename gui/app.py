@@ -142,4 +142,5 @@ def run_app():
     # Bind the treeview to open file on double-click
     tree.bind("<Double-1>", open_file)
 
-    app.mainloop()
+    app.mainloop()  
+    
