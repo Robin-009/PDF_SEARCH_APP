@@ -143,4 +143,3 @@ def run_app():
     tree.bind("<Double-1>", open_file)
 
     app.mainloop()  
-    
